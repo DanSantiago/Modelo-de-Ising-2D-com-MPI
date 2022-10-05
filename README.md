@@ -1,4 +1,4 @@
-# Modelo de Ising 2D - Serial
+# Modelo de Ising 2D - Paralelo com MPI
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanSantiago/Modelo-de-Ising-2D-com-MPI/blob/main/LICENCE) 
 
 # Sobre o projeto
