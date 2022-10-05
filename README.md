@@ -64,6 +64,8 @@ Algumas variáveis de execução podem ser modificadas caso seja de interesse, u
 
 OBS: O trabalho desenvolvido durante a disciplina com base nesse projeto pode visto no arquivo "HPC II" na pasta do projeto.
 
+OBS2: A versão em serial do programa pode ser obtida em (https://github.com/DanSantiago/Modelo-de-Ising-2D).
+
 # Autor
 
 Daniel Santiago da Silva
